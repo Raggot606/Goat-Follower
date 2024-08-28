@@ -1,0 +1,1570 @@
+{
+    "$schema": "https://raw.githubusercontent.com/KBMackenzie/COTL_JSONLoader/master/schema/follower-skin.json",
+    "name": "Goat",
+    "imagePath": "Goat Follower.png",
+    "overrides": [
+        {
+            "name": "HEAD_SKIN_BTM",
+            "rect": "0, 4, 163, 141",
+            "scale": "1.35, 1.1",
+            "offset": "0.1, 0"
+        },
+        {
+            "name": "HEAD_SKIN_BTM_BACK",
+            "rect": "174, 4, 153, 136",
+            "scale": "1.2, 1",
+            "offset": "0, 0"
+        },
+        {
+            "name": "HEAD_SKIN_TOP",
+            "rect": "0, 149, 164, 141",
+            "scale": "1.35, 1.1",
+            "offset": "0.1, 0"
+        },
+        {
+            "name": "HEAD_SKIN_TOP_BACK",
+            "rect": "174, 144, 153, 136",
+            "scale": "1.2, 1",
+            "offset": "0, 0"
+        },
+        {
+            "name": "MARKINGS",
+            "rect": "0, 298, 164, 141",
+            "scale": "3.6, 3.5",
+            "offset": "0, -0.23"
+        }
+    ],
+	"colors": [
+        [  
+            {
+                "name": "ARM_LEFT_SKIN",
+                "hex": "#7d6b66"
+            },
+            {
+                "name": "ARM_RIGHT_SKIN",
+                "hex": "#7d6b66"
+            },
+            {
+                "name": "LEG_LEFT_SKIN",
+                "hex": "#7d6b66"
+            },
+            {
+                "name": "LEG_RIGHT_SKIN",
+                "hex": "#7d6b66"
+            },
+            {
+                "name": "WEAPON_HAND_SKIN",
+                "hex": "#7d6b66"
+            },
+            {
+                "name": "BODY_SKIN",
+                "hex": "#4e3c46"
+            },
+            {
+                "name": "BODY_NAKED",
+                "hex": "#4e3c46"
+            },
+            {
+                "name": "BODY_NAKED_UP",
+                "hex": "#4e3c46"
+            },
+            {
+                "name": "BODY_BTM",
+                "hex": "#4e3c46"
+            },
+            {
+                "name": "BODY_SKIN_BOWED",
+                "hex": "#4e3c46"
+            },
+            {
+                "name": "BODY_SKIN_UP",
+                "hex": "#4e3c46"
+            },
+            {
+                "name": "BODY_BTM_UP",
+                "hex": "#4e3c46"
+            },
+            {
+                "name": "Body_Lvl3",
+                "hex": "#4e3c46"
+            },
+            {
+                "name": "BODY_EXTRA",
+                "hex": "#4e3c46"
+            },
+            {
+                "name": "BODY_EXTRA_UP",
+                "hex": "#4e3c46"
+            },
+            {
+                "name": "EXTRA_TOP",
+                "hex": "#4e3c46"
+            },
+            {
+                "name": "EXTRA_TOP_BACK",
+                "hex": "#4e3c46"
+            },
+{
+                "name": "HEAD_SKIN_BTM",
+                "hex": "#4e3c46"
+            },
+            {
+                "name": "HEAD_SKIN_BTM_BACK",
+                "hex": "#4e3c46"
+            },
+            {
+                "name": "HEAD_SKIN_TOP",
+                "hex": "#7d6b66"
+            },
+            {
+                "name": "HEAD_SKIN_TOP_BACK",
+                "hex": "#7d6b66"
+            },
+            {
+                "name": "MARKINGS",
+                "hex": "#9d4241"
+			}
+		],
+		[
+		    {
+                "name": "ARM_LEFT_SKIN",
+                "hex": "#484046"
+            },
+            {
+                "name": "ARM_RIGHT_SKIN",
+                "hex": "#484046"
+            },
+            {
+                "name": "LEG_LEFT_SKIN",
+                "hex": "#484046"
+            },
+            {
+                "name": "LEG_RIGHT_SKIN",
+                "hex": "#484046"
+            },
+            {
+                "name": "WEAPON_HAND_SKIN",
+                "hex": "#484046"
+            },
+            {
+                "name": "BODY_SKIN",
+                "hex": "#706b6e"
+            },
+            {
+                "name": "BODY_NAKED",
+                "hex": "#706b6e"
+            },
+            {
+                "name": "BODY_NAKED_UP",
+                "hex": "#706b6e"
+            },
+            {
+                "name": "BODY_BTM",
+                "hex": "#706b6e"
+            },
+            {
+                "name": "BODY_SKIN_BOWED",
+                "hex": "#706b6e"
+            },
+            {
+                "name": "BODY_SKIN_UP",
+                "hex": "#706b6e"
+            },
+            {
+                "name": "BODY_BTM_UP",
+                "hex": "#706b6e"
+            },
+            {
+                "name": "Body_Lvl3",
+                "hex": "#706b6e"
+            },
+            {
+                "name": "BODY_EXTRA",
+                "hex": "#706b6e"
+            },
+            {
+                "name": "BODY_EXTRA_UP",
+                "hex": "#706b6e"
+            },
+            {
+                "name": "EXTRA_TOP",
+                "hex": "#706b6e"
+            },
+            {
+                "name": "EXTRA_TOP_BACK",
+                "hex": "#706b6e"
+            },
+{
+                "name": "HEAD_SKIN_BTM",
+                "hex": "#706b6e"
+            },
+            {
+                "name": "HEAD_SKIN_BTM_BACK",
+                "hex": "#706b6e"
+            },
+            {
+                "name": "HEAD_SKIN_TOP",
+                "hex": "#484046"
+            },
+            {
+                "name": "HEAD_SKIN_TOP_BACK",
+                "hex": "#484046"
+            },
+            {
+                "name": "MARKINGS",
+                "hex": "#dd5873"
+			}
+		],
+		[
+            {
+                "name": "ARM_LEFT_SKIN",
+                "hex": "#5a5263"
+            },
+            {
+                "name": "ARM_RIGHT_SKIN",
+                "hex": "#5a5263"
+            },
+            {
+                "name": "LEG_LEFT_SKIN",
+                "hex": "#5a5263"
+            },
+            {
+                "name": "LEG_RIGHT_SKIN",
+                "hex": "#5a5263"
+            },
+            {
+                "name": "WEAPON_HAND_SKIN",
+                "hex": "#5a5263"
+            },
+            {
+                "name": "BODY_SKIN",
+                "hex": "#f2edd6"
+            },
+            {
+                "name": "BODY_NAKED",
+                "hex": "#f2edd6"
+            },
+            {
+                "name": "BODY_NAKED_UP",
+                "hex": "#f2edd6"
+            },
+            {
+                "name": "BODY_BTM",
+                "hex": "#f2edd6"
+            },
+            {
+                "name": "BODY_SKIN_BOWED",
+                "hex": "#f2edd6"
+            },
+            {
+                "name": "BODY_SKIN_UP",
+                "hex": "#f2edd6"
+            },
+            {
+                "name": "BODY_BTM_UP",
+                "hex": "#f2edd6"
+            },
+            {
+                "name": "Body_Lvl3",
+                "hex": "#f2edd6"
+            },
+            {
+                "name": "BODY_EXTRA",
+                "hex": "#f2edd6"
+            },
+            {
+                "name": "BODY_EXTRA_UP",
+                "hex": "#f2edd6"
+            },
+            {
+                "name": "EXTRA_TOP",
+                "hex": "#f2edd6"
+            },
+            {
+                "name": "EXTRA_TOP_BACK",
+                "hex": "#f2edd6"
+            },
+{
+                "name": "HEAD_SKIN_BTM",
+                "hex": "#f2edd6"
+            },
+            {
+                "name": "HEAD_SKIN_BTM_BACK",
+                "hex": "#f2edd6"
+            },
+            {
+                "name": "HEAD_SKIN_TOP",
+                "hex": "#5a5263"
+            },
+            {
+                "name": "HEAD_SKIN_TOP_BACK",
+                "hex": "#5a5263"
+            },
+            {
+                "name": "MARKINGS",
+                "hex": "#8f4450"
+			}
+		],
+		[  
+            {
+                "name": "ARM_LEFT_SKIN",
+                "hex": "#f0ebe1"
+            },
+            {
+                "name": "ARM_RIGHT_SKIN",
+                "hex": "#f0ebe1"
+            },
+            {
+                "name": "LEG_LEFT_SKIN",
+                "hex": "#f0ebe1"
+            },
+            {
+                "name": "LEG_RIGHT_SKIN",
+                "hex": "#f0ebe1"
+            },
+            {
+                "name": "WEAPON_HAND_SKIN",
+                "hex": "#f0ebe1"
+            },
+            {
+                "name": "BODY_SKIN",
+                "hex": "#5a5263"
+            },
+            {
+                "name": "BODY_NAKED",
+                "hex": "#5a5263"
+            },
+            {
+                "name": "BODY_NAKED_UP",
+                "hex": "#5a5263"
+            },
+            {
+                "name": "BODY_BTM",
+                "hex": "#5a5263"
+            },
+            {
+                "name": "BODY_SKIN_BOWED",
+                "hex": "#5a5263"
+            },
+            {
+                "name": "BODY_SKIN_UP",
+                "hex": "#5a5263"
+            },
+            {
+                "name": "BODY_BTM_UP",
+                "hex": "#5a5263"
+            },
+            {
+                "name": "Body_Lvl3",
+                "hex": "#5a5263"
+            },
+            {
+                "name": "BODY_EXTRA",
+                "hex": "#5a5263"
+            },
+            {
+                "name": "BODY_EXTRA_UP",
+                "hex": "#5a5263"
+            },
+            {
+                "name": "EXTRA_TOP",
+                "hex": "#5a5263"
+            },
+            {
+                "name": "EXTRA_TOP_BACK",
+                "hex": "#5a5263"
+            },
+{
+                "name": "HEAD_SKIN_BTM",
+                "hex": "#5a5263"
+            },
+            {
+                "name": "HEAD_SKIN_BTM_BACK",
+                "hex": "#5a5263"
+            },
+            {
+                "name": "HEAD_SKIN_TOP",
+                "hex": "#f0ebe1"
+            },
+            {
+                "name": "HEAD_SKIN_TOP_BACK",
+                "hex": "#f0ebe1"
+            },
+            {
+                "name": "MARKINGS",
+                "hex": "#ebaead"
+			}
+		],
+		[  
+            {
+                "name": "ARM_LEFT_SKIN",
+                "hex": "#5a5263"
+            },
+            {
+                "name": "ARM_RIGHT_SKIN",
+                "hex": "#5a5263"
+            },
+            {
+                "name": "LEG_LEFT_SKIN",
+                "hex": "#5a5263"
+            },
+            {
+                "name": "LEG_RIGHT_SKIN",
+                "hex": "#5a5263"
+            },
+            {
+                "name": "WEAPON_HAND_SKIN",
+                "hex": "#5a5263"
+            },
+            {
+                "name": "BODY_SKIN",
+                "hex": "#3d383f"
+            },
+            {
+                "name": "BODY_NAKED",
+                "hex": "#3d383f"
+            },
+            {
+                "name": "BODY_NAKED_UP",
+                "hex": "#3d383f"
+            },
+            {
+                "name": "BODY_BTM",
+                "hex": "#3d383f"
+            },
+            {
+                "name": "BODY_SKIN_BOWED",
+                "hex": "#3d383f"
+            },
+            {
+                "name": "BODY_SKIN_UP",
+                "hex": "#3d383f"
+            },
+            {
+                "name": "BODY_BTM_UP",
+                "hex": "#3d383f"
+            },
+            {
+                "name": "Body_Lvl3",
+                "hex": "#3d383f"
+            },
+            {
+                "name": "BODY_EXTRA",
+                "hex": "#3d383f"
+            },
+            {
+                "name": "BODY_EXTRA_UP",
+                "hex": "#3d383f"
+            },
+            {
+                "name": "EXTRA_TOP",
+                "hex": "#3d383f"
+            },
+            {
+                "name": "EXTRA_TOP_BACK",
+                "hex": "#3d383f"
+            },
+{
+                "name": "HEAD_SKIN_BTM",
+                "hex": "#3d383f"
+            },
+            {
+                "name": "HEAD_SKIN_BTM_BACK",
+                "hex": "#3d383f"
+            },
+            {
+                "name": "HEAD_SKIN_TOP",
+                "hex": "#5a5263"
+            },
+            {
+                "name": "HEAD_SKIN_TOP_BACK",
+                "hex": "#5a5263"
+            },
+            {
+                "name": "MARKINGS",
+                "hex": "#df6f3b"
+			}
+		],
+		[
+			{
+			 "name": "ARM_LEFT_SKIN",
+                "hex": "#858585"
+            },
+            {
+                "name": "ARM_RIGHT_SKIN",
+                "hex": "#858585"
+            },
+            {
+                "name": "LEG_LEFT_SKIN",
+                "hex": "#858585"
+            },
+            {
+                "name": "LEG_RIGHT_SKIN",
+                "hex": "#858585"
+            },
+            {
+                "name": "WEAPON_HAND_SKIN",
+                "hex": "#858585"
+            },
+            {
+                "name": "BODY_SKIN",
+                "hex": "#c7c7c7"
+            },
+            {
+                "name": "BODY_NAKED",
+                "hex": "#c7c7c7"
+            },
+            {
+                "name": "BODY_NAKED_UP",
+                "hex": "#c7c7c7"
+            },
+            {
+                "name": "BODY_BTM",
+                "hex": "#c7c7c7"
+            },
+            {
+                "name": "BODY_SKIN_BOWED",
+                "hex": "#c7c7c7"
+            },
+            {
+                "name": "BODY_SKIN_UP",
+                "hex": "#c7c7c7"
+            },
+            {
+                "name": "BODY_BTM_UP",
+                "hex": "#c7c7c7"
+            },
+            {
+                "name": "Body_Lvl3",
+                "hex": "#c7c7c7"
+            },
+            {
+                "name": "BODY_EXTRA",
+                "hex": "#c7c7c7"
+            },
+            {
+                "name": "BODY_EXTRA_UP",
+                "hex": "#c7c7c7"
+            },
+            {
+                "name": "EXTRA_TOP",
+                "hex": "#c7c7c7"
+            },
+            {
+                "name": "EXTRA_TOP_BACK",
+                "hex": "#c7c7c7"
+            },
+{
+                "name": "HEAD_SKIN_BTM",
+                "hex": "#c7c7c7"
+            },
+            {
+                "name": "HEAD_SKIN_BTM_BACK",
+                "hex": "#c7c7c7"
+            },
+            {
+                "name": "HEAD_SKIN_TOP",
+                "hex": "#858585"
+            },
+            {
+                "name": "HEAD_SKIN_TOP_BACK",
+                "hex": "#858585"
+            },
+            {
+                "name": "MARKINGS",
+                "hex": "#474345"	
+			}
+		],
+				[
+			{
+				"name": "ARM_LEFT_SKIN",
+                "hex": "#f0e2c4"
+            },
+            {
+                "name": "ARM_RIGHT_SKIN",
+                "hex": "#f0e2c4"
+            },
+            {
+                "name": "LEG_LEFT_SKIN",
+                "hex": "#f0e2c4"
+            },
+            {
+                "name": "LEG_RIGHT_SKIN",
+                "hex": "#f0e2c4"
+            },
+            {
+                "name": "WEAPON_HAND_SKIN",
+                "hex": "#f0e2c4"
+            },
+            {
+                "name": "BODY_SKIN",
+                "hex": "#f2edd6"
+            },
+            {
+                "name": "BODY_NAKED",
+                "hex": "#f2edd6"
+            },
+            {
+                "name": "BODY_NAKED_UP",
+                "hex": "#f2edd6"
+            },
+            {
+                "name": "BODY_BTM",
+                "hex": "#f2edd6"
+            },
+            {
+                "name": "BODY_SKIN_BOWED",
+                "hex": "#f2edd6"
+            },
+            {
+                "name": "BODY_SKIN_UP",
+                "hex": "#f2edd6"
+            },
+            {
+                "name": "BODY_BTM_UP",
+                "hex": "#f2edd6"
+            },
+            {
+                "name": "Body_Lvl3",
+                "hex": "#f2edd6"
+            },
+            {
+                "name": "BODY_EXTRA",
+                "hex": "#f2edd6"
+            },
+            {
+                "name": "BODY_EXTRA_UP",
+                "hex": "#f2edd6"
+            },
+            {
+                "name": "EXTRA_TOP",
+                "hex": "#f2edd6"
+            },
+            {
+                "name": "EXTRA_TOP_BACK",
+                "hex": "#f2edd6"
+            },
+{
+                "name": "HEAD_SKIN_BTM",
+                "hex": "#f2edd6"
+            },
+            {
+                "name": "HEAD_SKIN_BTM_BACK",
+                "hex": "#f2edd6"
+            },
+            {
+                "name": "HEAD_SKIN_TOP",
+                "hex": "#f0e2c4"
+            },
+            {
+                "name": "HEAD_SKIN_TOP_BACK",
+                "hex": "#f0e2c4"
+            },
+            {
+                "name": "MARKINGS",
+                "hex": "#bd9268"
+            }
+		],
+				[
+			{
+				"name": "ARM_LEFT_SKIN",
+                "hex": "#621615"
+            },
+            {
+                "name": "ARM_RIGHT_SKIN",
+                "hex": "#621615"
+            },
+            {
+                "name": "LEG_LEFT_SKIN",
+                "hex": "#621615"
+            },
+            {
+                "name": "LEG_RIGHT_SKIN",
+                "hex": "#621615"
+            },
+            {
+                "name": "WEAPON_HAND_SKIN",
+                "hex": "#621615"
+            },
+            {
+                "name": "BODY_SKIN",
+                "hex": "#ac0301"
+            },
+            {
+                "name": "BODY_NAKED",
+                "hex": "#ac0301"
+            },
+            {
+                "name": "BODY_NAKED_UP",
+                "hex": "#ac0301"
+            },
+            {
+                "name": "BODY_BTM",
+                "hex": "#ac0301"
+            },
+            {
+                "name": "BODY_SKIN_BOWED",
+                "hex": "#ac0301"
+            },
+            {
+                "name": "BODY_SKIN_UP",
+                "hex": "#ac0301"
+            },
+            {
+                "name": "BODY_BTM_UP",
+                "hex": "#ac0301"
+            },
+            {
+                "name": "Body_Lvl3",
+                "hex": "#ac0301"
+            },
+            {
+                "name": "BODY_EXTRA",
+                "hex": "#ac0301"
+            },
+            {
+                "name": "BODY_EXTRA_UP",
+                "hex": "#ac0301"
+            },
+            {
+                "name": "EXTRA_TOP",
+                "hex": "#ac0301"
+            },
+            {
+                "name": "EXTRA_TOP_BACK",
+                "hex": "#ac0301"
+            },
+{
+                "name": "HEAD_SKIN_BTM",
+                "hex": "#ac0301"
+            },
+            {
+                "name": "HEAD_SKIN_BTM_BACK",
+                "hex": "#ac0301"
+            },
+            {
+                "name": "HEAD_SKIN_TOP",
+                "hex": "#621615"
+            },
+            {
+                "name": "HEAD_SKIN_TOP_BACK",
+                "hex": "#621615"
+            },
+            {
+                "name": "MARKINGS",
+                "hex": "#2b0908"
+			}
+		],
+				[
+			{
+				"name": "ARM_LEFT_SKIN",
+                "hex": "#c78d49"
+            },
+            {
+                "name": "ARM_RIGHT_SKIN",
+                "hex": "#c78d49"
+            },
+            {
+                "name": "LEG_LEFT_SKIN",
+                "hex": "#c78d49"
+            },
+            {
+                "name": "LEG_RIGHT_SKIN",
+                "hex": "#c78d49"
+            },
+            {
+                "name": "WEAPON_HAND_SKIN",
+                "hex": "#c78d49"
+            },
+            {
+                "name": "BODY_SKIN",
+                "hex": "#f0c99a"
+            },
+            {
+                "name": "BODY_NAKED",
+                "hex": "#f0c99a"
+            },
+            {
+                "name": "BODY_NAKED_UP",
+                "hex": "#f0c99a"
+            },
+            {
+                "name": "BODY_BTM",
+                "hex": "#f0c99a"
+            },
+            {
+                "name": "BODY_SKIN_BOWED",
+                "hex": "#f0c99a"
+            },
+            {
+                "name": "BODY_SKIN_UP",
+                "hex": "#f0c99a"
+            },
+            {
+                "name": "BODY_BTM_UP",
+                "hex": "#f0c99a"
+            },
+            {
+                "name": "Body_Lvl3",
+                "hex": "#f0c99a"
+            },
+            {
+                "name": "BODY_EXTRA",
+                "hex": "#f0c99a"
+            },
+            {
+                "name": "BODY_EXTRA_UP",
+                "hex": "#f0c99a"
+            },
+            {
+                "name": "EXTRA_TOP",
+                "hex": "#f0c99a"
+            },
+            {
+                "name": "EXTRA_TOP_BACK",
+                "hex": "#f0c99a"
+            },
+{
+                "name": "HEAD_SKIN_BTM",
+                "hex": "#f0c99a"
+            },
+            {
+                "name": "HEAD_SKIN_BTM_BACK",
+                "hex": "#f0c99a"
+            },
+            {
+                "name": "HEAD_SKIN_TOP",
+                "hex": "#c78d49"
+            },
+            {
+                "name": "HEAD_SKIN_TOP_BACK",
+                "hex": "#c78d49"
+            },
+            {
+                "name": "MARKINGS",
+                "hex": "#ea8815"
+            }
+		],
+				[
+			{
+				"name": "ARM_LEFT_SKIN",
+                "hex": "#fdf3b9"
+            },
+            {
+			    "name": "ARM_RIGHT_SKIN",
+                "hex": "#fdf3b9"
+            },
+            {
+                "name": "LEG_LEFT_SKIN",
+                "hex": "#fdf3b9"
+            },
+            {
+                "name": "LEG_RIGHT_SKIN",
+                "hex": "#fdf3b9"
+            },
+            {
+                "name": "WEAPON_HAND_SKIN",
+                "hex": "#fdf3b9"
+            },
+            {
+                "name": "BODY_SKIN",
+                "hex": "#f8e264"
+            },
+            {
+                "name": "BODY_NAKED",
+                "hex": "#f8e264"
+            },
+            {
+                "name": "BODY_NAKED_UP",
+                "hex": "#f8e264"
+            },
+            {
+                "name": "BODY_BTM",
+                "hex": "#f8e264"
+            },
+            {
+                "name": "BODY_SKIN_BOWED",
+                "hex": "#f8e264"
+            },
+            {
+                "name": "BODY_SKIN_UP",
+                "hex": "#f8e264"
+            },
+            {
+                "name": "BODY_BTM_UP",
+                "hex": "#f8e264"
+            },
+            {
+                "name": "Body_Lvl3",
+                "hex": "#f8e264"
+            },
+            {
+                "name": "BODY_EXTRA",
+                "hex": "#f8e264"
+            },
+            {
+                "name": "BODY_EXTRA_UP",
+                "hex": "#f8e264"
+            },
+            {
+                "name": "EXTRA_TOP",
+                "hex": "#f8e264"
+            },
+            {
+                "name": "EXTRA_TOP_BACK",
+                "hex": "#f8e264"
+            },
+{
+                "name": "HEAD_SKIN_BTM",
+                "hex": "#f8e264"
+            },
+            {
+                "name": "HEAD_SKIN_BTM_BACK",
+                "hex": "#f8e264"
+            },
+            {
+                "name": "HEAD_SKIN_TOP",
+                "hex": "#fdf3b9"
+            },
+            {
+                "name": "HEAD_SKIN_TOP_BACK",
+                "hex": "#fdf3b9"
+            },
+            {
+                "name": "MARKINGS",
+                "hex": "#fffefa"
+			}
+					],
+				[
+			{
+				"name": "ARM_LEFT_SKIN",
+                "hex": "#c9e87e"
+            },
+            {
+			    "name": "ARM_RIGHT_SKIN",
+                "hex": "#c9e87e"
+            },
+            {
+                "name": "LEG_LEFT_SKIN",
+                "hex": "#c9e87e"
+            },
+            {
+                "name": "LEG_RIGHT_SKIN",
+                "hex": "#c9e87e"
+            },
+            {
+                "name": "WEAPON_HAND_SKIN",
+                "hex": "#c9e87e"
+            },
+            {
+                "name": "BODY_SKIN",
+                "hex": "#809d39"
+            },
+            {
+                "name": "BODY_NAKED",
+                "hex": "#809d39"
+            },
+            {
+                "name": "BODY_NAKED_UP",
+                "hex": "#809d39"
+            },
+            {
+                "name": "BODY_BTM",
+                "hex": "#809d39"
+            },
+            {
+                "name": "BODY_SKIN_BOWED",
+                "hex": "#809d39"
+            },
+            {
+                "name": "BODY_SKIN_UP",
+                "hex": "#809d39"
+            },
+            {
+                "name": "BODY_BTM_UP",
+                "hex": "#809d39"
+            },
+            {
+                "name": "Body_Lvl3",
+                "hex": "#809d39"
+            },
+            {
+                "name": "BODY_EXTRA",
+                "hex": "#809d39"
+            },
+            {
+                "name": "BODY_EXTRA_UP",
+                "hex": "#809d39"
+            },
+            {
+                "name": "EXTRA_TOP",
+                "hex": "#809d39"
+            },
+            {
+                "name": "EXTRA_TOP_BACK",
+                "hex": "#809d39"
+            },
+{
+                "name": "HEAD_SKIN_BTM",
+                "hex": "#809d39"
+            },
+            {
+                "name": "HEAD_SKIN_BTM_BACK",
+                "hex": "#809d39"
+            },
+            {
+                "name": "HEAD_SKIN_TOP",
+                "hex": "#c9e87e"
+            },
+            {
+                "name": "HEAD_SKIN_TOP_BACK",
+                "hex": "#c9e87e"
+            },
+            {
+                "name": "MARKINGS",
+                "hex": "#38761d"
+			}
+		],
+			[
+
+			{
+				"name": "ARM_LEFT_SKIN",
+                "hex": "#82cdda"
+            },
+            {
+			    "name": "ARM_RIGHT_SKIN",
+                "hex": "#82cdda"
+            },
+            {
+                "name": "LEG_LEFT_SKIN",
+                "hex": "#82cdda"
+            },
+            {
+                "name": "LEG_RIGHT_SKIN",
+                "hex": "#82cdda"
+            },
+            {
+                "name": "WEAPON_HAND_SKIN",
+                "hex": "#82cdda"
+            },
+            {
+                "name": "BODY_SKIN",
+                "hex": "#b9ebf3"
+            },
+            {
+                "name": "BODY_NAKED",
+                "hex": "#b9ebf3"
+            },
+            {
+                "name": "BODY_NAKED_UP",
+                "hex": "#b9ebf3"
+            },
+            {
+                "name": "BODY_BTM",
+                "hex": "#b9ebf3"
+            },
+            {
+                "name": "BODY_SKIN_BOWED",
+                "hex": "#b9ebf3"
+            },
+            {
+                "name": "BODY_SKIN_UP",
+                "hex": "#b9ebf3"
+            },
+            {
+                "name": "BODY_BTM_UP",
+                "hex": "#b9ebf3"
+            },
+            {
+                "name": "Body_Lvl3",
+                "hex": "#b9ebf3"
+            },
+            {
+                "name": "BODY_EXTRA",
+                "hex": "#b9ebf3"
+            },
+            {
+                "name": "BODY_EXTRA_UP",
+                "hex": "#b9ebf3"
+            },
+            {
+                "name": "EXTRA_TOP",
+                "hex": "#b9ebf3"
+            },
+            {
+                "name": "EXTRA_TOP_BACK",
+                "hex": "#b9ebf3"
+            },
+{
+                "name": "HEAD_SKIN_BTM",
+                "hex": "#b9ebf3"
+            },
+            {
+                "name": "HEAD_SKIN_BTM_BACK",
+                "hex": "#b9ebf3"
+            },
+            {
+                "name": "HEAD_SKIN_TOP",
+                "hex": "#82cdda"
+            },
+            {
+                "name": "HEAD_SKIN_TOP_BACK",
+                "hex": "#82cdda"
+            },
+            {
+                "name": "MARKINGS",
+                "hex": "#0094ad"
+			}
+		],
+				[
+			{
+				"name": "ARM_LEFT_SKIN",
+                "hex": "#5d8a59"
+            },
+            {
+			    "name": "ARM_RIGHT_SKIN",
+                "hex": "#5d8a59"
+            },
+            {
+                "name": "LEG_LEFT_SKIN",
+                "hex": "#5d8a59"
+            },
+            {
+                "name": "LEG_RIGHT_SKIN",
+                "hex": "#5d8a59"
+            },
+            {
+                "name": "WEAPON_HAND_SKIN",
+                "hex": "#5d8a59"
+            },
+            {
+                "name": "BODY_SKIN",
+                "hex": "#93ca8e"
+            },
+            {
+                "name": "BODY_NAKED",
+                "hex": "#93ca8e"
+            },
+            {
+                "name": "BODY_NAKED_UP",
+                "hex": "#93ca8e"
+            },
+            {
+                "name": "BODY_BTM",
+                "hex": "#93ca8e"
+            },
+            {
+                "name": "BODY_SKIN_BOWED",
+                "hex": "#93ca8e"
+            },
+            {
+                "name": "BODY_SKIN_UP",
+                "hex": "#93ca8e"
+            },
+            {
+                "name": "BODY_BTM_UP",
+                "hex": "#93ca8e"
+            },
+            {
+                "name": "Body_Lvl3",
+                "hex": "#93ca8e"
+            },
+            {
+                "name": "BODY_EXTRA",
+                "hex": "#93ca8e"
+            },
+            {
+                "name": "BODY_EXTRA_UP",
+                "hex": "#93ca8e"
+            },
+            {
+                "name": "EXTRA_TOP",
+                "hex": "#93ca8e"
+            },
+            {
+                "name": "EXTRA_TOP_BACK",
+                "hex": "#93ca8e"
+            },
+{
+                "name": "HEAD_SKIN_BTM",
+                "hex": "#93ca8e"
+            },
+            {
+                "name": "HEAD_SKIN_BTM_BACK",
+                "hex": "#93ca8e"
+            },
+            {
+                "name": "HEAD_SKIN_TOP",
+                "hex": "#5d8a59"
+            },
+            {
+                "name": "HEAD_SKIN_TOP_BACK",
+                "hex": "#5d8a59"
+            },
+            {
+                "name": "MARKINGS",
+                "hex": "#2dc81e"
+			}
+		],
+				[
+			{
+				"name": "ARM_LEFT_SKIN",
+                "hex": "#b2beed"
+            },
+            {
+			    "name": "ARM_RIGHT_SKIN",
+                "hex": "#b2beed"
+            },
+            {
+                "name": "LEG_LEFT_SKIN",
+                "hex": "#b2beed"
+            },
+            {
+                "name": "LEG_RIGHT_SKIN",
+                "hex": "#b2beed"
+            },
+            {
+                "name": "WEAPON_HAND_SKIN",
+                "hex": "#b2beed"
+            },
+            {
+                "name": "BODY_SKIN",
+                "hex": "#4c61bc"
+            },
+            {
+                "name": "BODY_NAKED",
+                "hex": "#4c61bc"
+            },
+            {
+                "name": "BODY_NAKED_UP",
+                "hex": "#4c61bc"
+            },
+            {
+                "name": "BODY_BTM",
+                "hex": "#4c61bc"
+            },
+            {
+                "name": "BODY_SKIN_BOWED",
+                "hex": "#4c61bc"
+            },
+            {
+                "name": "BODY_SKIN_UP",
+                "hex": "#4c61bc"
+            },
+            {
+                "name": "BODY_BTM_UP",
+                "hex": "#4c61bc"
+            },
+            {
+                "name": "Body_Lvl3",
+                "hex": "#4c61bc"
+            },
+            {
+                "name": "BODY_EXTRA",
+                "hex": "#4c61bc"
+            },
+            {
+                "name": "BODY_EXTRA_UP",
+                "hex": "#4c61bc"
+            },
+            {
+                "name": "EXTRA_TOP",
+                "hex": "#4c61bc"
+            },
+            {
+                "name": "EXTRA_TOP_BACK",
+                "hex": "#4c61bc"
+            },
+{
+                "name": "HEAD_SKIN_BTM",
+                "hex": "#4c61bc"
+            },
+            {
+                "name": "HEAD_SKIN_BTM_BACK",
+                "hex": "#4c61bc"
+            },
+            {
+                "name": "HEAD_SKIN_TOP",
+                "hex": "#b2beed"
+            },
+            {
+                "name": "HEAD_SKIN_TOP_BACK",
+                "hex": "#b2beed"
+            },
+            {
+                "name": "MARKINGS",
+                "hex": "#3800e3"
+			}
+		],
+				[
+			{
+				"name": "ARM_LEFT_SKIN",
+                "hex": "#a26cb5"
+            },
+            {
+			    "name": "ARM_RIGHT_SKIN",
+                "hex": "#a26cb5"
+            },
+            {
+                "name": "LEG_LEFT_SKIN",
+                "hex": "#a26cb5"
+            },
+            {
+                "name": "LEG_RIGHT_SKIN",
+                "hex": "#a26cb5"
+            },
+            {
+                "name": "WEAPON_HAND_SKIN",
+                "hex": "#a26cb5"
+            },
+            {
+                "name": "BODY_SKIN",
+                "hex": "#dfbeeb"
+            },
+            {
+                "name": "BODY_NAKED",
+                "hex": "#dfbeeb"
+            },
+            {
+                "name": "BODY_NAKED_UP",
+                "hex": "#dfbeeb"
+            },
+            {
+                "name": "BODY_BTM",
+                "hex": "#dfbeeb"
+            },
+            {
+                "name": "BODY_SKIN_BOWED",
+                "hex": "#dfbeeb"
+            },
+            {
+                "name": "BODY_SKIN_UP",
+                "hex": "#dfbeeb"
+            },
+            {
+                "name": "BODY_BTM_UP",
+                "hex": "#dfbeeb"
+            },
+            {
+                "name": "Body_Lvl3",
+                "hex": "#dfbeeb"
+            },
+            {
+                "name": "BODY_EXTRA",
+                "hex": "#dfbeeb"
+            },
+            {
+                "name": "BODY_EXTRA_UP",
+                "hex": "#dfbeeb"
+            },
+            {
+                "name": "EXTRA_TOP",
+                "hex": "#dfbeeb"
+            },
+            {
+                "name": "EXTRA_TOP_BACK",
+                "hex": "#dfbeeb"
+            },
+{
+                "name": "HEAD_SKIN_BTM",
+                "hex": "#dfbeeb"
+            },
+            {
+                "name": "HEAD_SKIN_BTM_BACK",
+                "hex": "#dfbeeb"
+            },
+            {
+                "name": "HEAD_SKIN_TOP",
+                "hex": "#a26cb5"
+            },
+            {
+                "name": "HEAD_SKIN_TOP_BACK",
+                "hex": "#a26cb5"
+            },
+            {
+                "name": "MARKINGS",
+                "hex": "#c407a3"
+			}
+		],
+				[
+			{
+				"name": "ARM_LEFT_SKIN",
+                "hex": "#f2cedf"
+            },
+            {
+			    "name": "ARM_RIGHT_SKIN",
+                "hex": "#f2cedf"
+            },
+            {
+                "name": "LEG_LEFT_SKIN",
+                "hex": "#f2cedf"
+            },
+            {
+                "name": "LEG_RIGHT_SKIN",
+                "hex": "#f2cedf"
+            },
+            {
+                "name": "WEAPON_HAND_SKIN",
+                "hex": "#f2cedf"
+            },
+            {
+                "name": "BODY_SKIN",
+                "hex": "#e590aa"
+            },
+            {
+                "name": "BODY_NAKED",
+                "hex": "#e590aa"
+            },
+            {
+                "name": "BODY_NAKED_UP",
+                "hex": "#e590aa"
+            },
+            {
+                "name": "BODY_BTM",
+                "hex": "#e590aa"
+            },
+            {
+                "name": "BODY_SKIN_BOWED",
+                "hex": "#e590aa"
+            },
+            {
+                "name": "BODY_SKIN_UP",
+                "hex": "#e590aa"
+            },
+            {
+                "name": "BODY_BTM_UP",
+                "hex": "#e590aa"
+            },
+            {
+                "name": "Body_Lvl3",
+                "hex": "#e590aa"
+            },
+            {
+                "name": "BODY_EXTRA",
+                "hex": "#e590aa"
+            },
+            {
+                "name": "BODY_EXTRA_UP",
+                "hex": "#e590aa"
+            },
+            {
+                "name": "EXTRA_TOP",
+                "hex": "#e590aa"
+            },
+            {
+                "name": "EXTRA_TOP_BACK",
+                "hex": "#e590aa"
+            },
+{
+                "name": "HEAD_SKIN_BTM",
+                "hex": "#e590aa"
+            },
+            {
+                "name": "HEAD_SKIN_BTM_BACK",
+                "hex": "#e590aa"
+            },
+            {
+                "name": "HEAD_SKIN_TOP",
+                "hex": "#f2cedf"
+            },
+            {
+                "name": "HEAD_SKIN_TOP_BACK",
+                "hex": "#f2cedf"
+            },
+            {
+                "name": "MARKINGS",
+                "hex": "#b81c4b"
+			}
+		],
+				[
+			{
+				"name": "ARM_LEFT_SKIN",
+                "hex": "#bd1c5a"
+            },
+            {	
+			    "name": "ARM_RIGHT_SKIN",
+                "hex": "#bd1c5a"
+            },
+            {
+                "name": "LEG_LEFT_SKIN",
+                "hex": "#bd1c5a"
+            },
+            {
+                "name": "LEG_RIGHT_SKIN",
+                "hex": "#bd1c5a"
+            },
+            {
+                "name": "WEAPON_HAND_SKIN",
+                "hex": "#bd1c5a"
+            },
+            {
+                "name": "BODY_SKIN",
+                "hex": "#f775be"
+            },
+            {
+                "name": "BODY_NAKED",
+                "hex": "#f775be"
+            },
+            {
+                "name": "BODY_NAKED_UP",
+                "hex": "#f775be"
+            },
+            {
+                "name": "BODY_BTM",
+                "hex": "#f775be"
+            },
+            {
+                "name": "BODY_SKIN_BOWED",
+                "hex": "#f775be"
+            },
+            {
+                "name": "BODY_SKIN_UP",
+                "hex": "#f775be"
+            },
+            {
+                "name": "BODY_BTM_UP",
+                "hex": "#f775be"
+            },
+            {
+                "name": "Body_Lvl3",
+                "hex": "#f775be"
+            },
+            {
+                "name": "BODY_EXTRA",
+                "hex": "#f775be"
+            },
+            {
+                "name": "BODY_EXTRA_UP",
+                "hex": "#f775be"
+            },
+            {
+                "name": "EXTRA_TOP",
+                "hex": "#f775be"
+            },
+            {
+                "name": "EXTRA_TOP_BACK",
+                "hex": "#f775be"
+            },
+{
+                "name": "HEAD_SKIN_BTM",
+                "hex": "#f775be"
+            },
+            {
+                "name": "HEAD_SKIN_BTM_BACK",
+                "hex": "#e590aa"
+            },
+            {
+                "name": "HEAD_SKIN_TOP",
+                "hex": "#bd1c5a"
+            },
+            {
+                "name": "HEAD_SKIN_TOP_BACK",
+                "hex": "#bd1c5a"
+            },
+            {
+                "name": "MARKINGS",
+                "hex": "#efc2dd"
+            }
+        ]
+    ]
+}
